@@ -46,12 +46,12 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
 
 # Inference Examples
 ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
- *Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
+ 
+*Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
 
 ## Cabybara detection
 ![Capybara TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/capybara.jpg)
- 
-*Original image: https://commons.wikimedia.org/wiki/File:Capybara_portrait.jpg*
+ *Original image: https://commons.wikimedia.org/wiki/File:Capybara_portrait.jpg*
 
 ## Coin detection
 ![Coin TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/coins.jpg)
