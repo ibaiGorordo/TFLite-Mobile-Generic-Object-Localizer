@@ -21,8 +21,13 @@ For the tflite runtime, you can either use tensorflow(make sure it is version 2.
 # tflite model
 The original models was taken from [Tensorflow Hub](https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/default/1), download it, and place it in the **[models folder](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/tree/main/models)**. 
 
-# Original Tensorflow model
-The Tensorflow model is also available in Tensorflow Hub and would be more suitable for computers: https://tfhub.dev/google/object_detection/mobile_object_localizer_v1/1
+Use the following script to download the model:
+```
+python download_model.py
+```
+
+# Tensorflow inference
+Use this other repository for detecting object in Tensorflow (recommended for computer with GPU): https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer
  
 # Examples
 
