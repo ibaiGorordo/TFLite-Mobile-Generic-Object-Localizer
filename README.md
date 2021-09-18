@@ -45,7 +45,8 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
 # Inference Examples
 
  ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
-Original video by Animist: https://youtu.be/uKyoV0uG9rQ
+
+*Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
 
 # References:
 * Original model: https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/default/1
