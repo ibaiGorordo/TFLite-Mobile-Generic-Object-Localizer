@@ -44,8 +44,7 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
 
 # Examples
 
-## Shoe detection
- ![Generic object detector for shoe detection](https://github.com/ibaiGorordo/TFLite-HITNET-Stereo-depth-estimation/blob/main/docs/img/Pi4tfliteHitnetDepthEstimation.gif)
+ ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
 
 # References:
 * Original model: https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/default/1
