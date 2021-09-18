@@ -1,3 +1,2 @@
 imread-from-url
 opencv-python
-imread-from-url
