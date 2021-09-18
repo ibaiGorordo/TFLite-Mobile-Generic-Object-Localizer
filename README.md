@@ -8,7 +8,7 @@ Python TFLite scripts for detecting objects of any class in an image without kno
 
 # Requirements
 
- * **OpenCV**, **imread-from-url** and **tensorflow==2.6.0 or tflite_runtime**. Also, **pafy** and **youtube-dl** are required for youtube video inference. 
+ * **OpenCV**, **imread-from-url** and **tensorflow or tflite_runtime**. Also, **pafy** and **youtube-dl** are required for youtube video inference. 
  
 # Installation
 ```
