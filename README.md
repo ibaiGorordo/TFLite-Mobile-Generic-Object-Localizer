@@ -42,7 +42,7 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
  python videoObjectDetection.py
  ```
 
-# Examples
+# Inference Examples
 
  ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
 
