@@ -1,4 +1,4 @@
-# TFLite Generic-Mobile-Object-Localizer
+# TFLite Generic Mobile Object Localizer
 Python TFLite scripts for detecting objects of any class in an image without knowing their label. The object detector works better with images with few objects and it starts to fail in more complex scenes. The model is suitable for automatically labelling objects for custom object detection models.
 
 ![TFLite Generic Object Localizer](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/output.jpg)
