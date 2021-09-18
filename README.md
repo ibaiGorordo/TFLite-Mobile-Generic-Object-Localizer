@@ -1,8 +1,10 @@
 # TFLite Generic Mobile Object Localizer
-Python TFLite scripts for detecting objects of any class in an image without knowing their label. The object detector works better with images with few objects and it starts to fail in more complex scenes. The model is suitable for automatically labelling objects for custom object detection models.
+Python TFLite scripts for detecting objects of any class in an image without knowing their label. 
 
 ![TFLite Generic Object Localizer](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/output.jpg)
-Image taken from the OpenCV AI Kit - Lite, make sure to check it out: https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection
+*Image taken from the OpenCV AI Kit - Lite, make sure to check it out: https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection*
+
+### :exclamation::warning:The object **detector works better with images with few objects** and it starts to fail in more complex scenes. The model is suitable for automatically labelling objects for custom object detection models.
 
 # Requirements
 
@@ -43,10 +45,31 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
  ```
 
 # Inference Examples
-
  ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
-
+ 
 *Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
+
+## Cabybara detection
+![Capybara TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/capybara.jpg)
+*Original image: https://commons.wikimedia.org/wiki/File:Capybara_portrait.jpg*
+
+## Coin detection
+![Coin TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/coins.jpg)
+*Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
+
+## Shoe detection
+![Shoe TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/sneakers.jpg)
+*Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
+
+## Spaceship detection
+![Spaceship TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/spaceship.jpg)
+*Original image: https://en.wikipedia.org/wiki/Spacecraft#/media/File:SpaceX_Crew_Dragon_(More_cropped).jpg*
+
+## Window detection
+![Window TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/window.jpg)
+*Original image: https://commons.wikimedia.org/wiki/File:Window_-_Paddington_-_London.JPG*
+
+## And many more
 
 # References:
 * Original model: https://tfhub.dev/google/lite-model/object_detection/mobile_object_localizer_v1/1/default/1
