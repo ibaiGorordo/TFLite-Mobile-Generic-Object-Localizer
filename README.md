@@ -45,29 +45,29 @@ The Tensorflow model is also available in Tensorflow Hub and would be more suita
  ```
 
 # Inference Examples
- ![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
- 
-*Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
+![Generic object detector figures](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/genericObjectLocalizer.gif)
+ *Original video by Animist: https://youtu.be/uKyoV0uG9rQ*
 
 ## Cabybara detection
 ![Capybara TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/capybara.jpg)
+ 
 *Original image: https://commons.wikimedia.org/wiki/File:Capybara_portrait.jpg*
 
 ## Coin detection
 ![Coin TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/coins.jpg)
-*Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
+ *Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
 
 ## Shoe detection
 ![Shoe TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/sneakers.jpg)
-*Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
+ *Original image: https://commons.wikimedia.org/wiki/File:Japanese_Coins.jpg*
 
 ## Spaceship detection
 ![Spaceship TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/spaceship.jpg)
-*Original image: https://en.wikipedia.org/wiki/Spacecraft#/media/File:SpaceX_Crew_Dragon_(More_cropped).jpg*
+ *Original image: https://en.wikipedia.org/wiki/Spacecraft#/media/File:SpaceX_Crew_Dragon_(More_cropped).jpg*
 
 ## Window detection
 ![Window TFLite detection](https://github.com/ibaiGorordo/TFLite-Generic-Mobile-Object-Localizer/blob/main/docs/img/window.jpg)
-*Original image: https://commons.wikimedia.org/wiki/File:Window_-_Paddington_-_London.JPG*
+ *Original image: https://commons.wikimedia.org/wiki/File:Window_-_Paddington_-_London.JPG*
 
 ## And many more
 
