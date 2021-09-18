@@ -1,0 +1,1 @@
+from .genericDetector import GenericDetector
